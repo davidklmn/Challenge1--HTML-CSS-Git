@@ -14,6 +14,8 @@ My changes included:
 
 I learnt a lot about semantic elements and accesibility and its importance in web development.
 
+![screencshot of my finished project](https://github.com/davidklmn/Challenge1--HTML-CSS-Git/blob/main/assets/images/Screenshot%202022-11-28%20at%2014.11.45.png)
+
 ## Credits
 
 Colt Steele's video about Semantic HTML helped me a lot to understand the basic concepts for this project.

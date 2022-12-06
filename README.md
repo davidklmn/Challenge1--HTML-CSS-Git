@@ -20,4 +20,5 @@ I learnt a lot about semantic elements and accesibility and its importance in we
 
 ## Credits
 
-Colt Steele's video about Semantic HTML helped me a lot to understand the basic concepts for this project.
+Seb Kay's portfolio site: https://sebkay.com/
+Perfet form for my contact segment: https://codepen.io/ZachSaucier/pen/jOwNvO
